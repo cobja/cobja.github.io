@@ -1,0 +1,176 @@
+*{box-sizing:border-box;}
+.body{
+	margin:0;
+	font-family:'PT Sans', sans-serif;
+	
+}
+.clear{
+  clear: both;
+
+}
+.logo{
+	position:absolute;
+    top:50%;
+	left:50%;
+	margin-left:-300px;
+	margin-top:-80.10px;
+	width:600px
+	
+}
+.cutive{
+	font-family: 'Cutive', serif;
+	font-size:120%;
+
+}
+.header{
+	height:890vh;
+	height:100vh;
+	width:100%;
+}
+
+.information{
+	
+	width:100%;
+	background-color:white;
+	padding: 2em 0;
+	color:rgb(124,177,66);
+	
+}
+.contentWidth{
+	 padding:1em;
+	 margin: 0 auto;
+	 width:100%;
+	 max-width:960px;
+	 
+}
+.col-half{
+	width:50%;
+	float:left;
+}
+.tiles{
+	width:100%;
+	
+	color:white
+
+	
+	
+}
+.tilethirds{
+	width:33.33%;
+	float:left;
+	text-align:center;
+	padding:0.5em 0.75em 3em;
+	background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+	.tilethirds img{
+		width:100%;
+	}
+.tiletext{
+	
+	position:center;
+	text-align:center;
+	
+	
+}
+.tiletext_2{
+	font-family: 'Cutive', serif;
+	font-size: 110%;
+	text-align:center;
+	
+}
+.button{
+	
+	font-size:130%;
+	position:relative;
+	border: solid #5b8230;
+	background:#5b8230; 
+	padding:0.25em 1em;
+}
+.about{
+	width:100%;
+	padding:2em 0;
+	background-color:white;
+	color:rgb(124,177,66);
+	
+}
+.col-half2{
+	width:50%;
+	float:left;
+	color:rgb(124,177,66);
+
+}
+	.colhalf_picture{
+		text-align:right;
+	}
+#aboutWahouts{
+	text-decoration: underline;
+	text-align:center;
+	color:rgb(124,177,66);
+	font-family: 'Cutive', serif;
+	font-size:130%
+	
+}
+.aboutText{
+	font-family: 'Cutive', serif;
+	font-size:90%;
+	}
+.gallery{
+	width:100%;
+	float:left;
+    margin:0;
+
+}
+#galText{
+	color:white;
+	font-size:250%;
+	text-align:center;
+	background:rgb(124,177,66) center no-repeat;
+    background-size: cover;
+	margin:0;
+	font-family: 'Cutive', serif;
+	padding:1em 0 1em;
+    letter-spacing: 10px;	
+	}
+
+.galleryPics{
+	line-height:0px;
+    display:inline-block;
+	width:25%;
+	float:left
+	}
+
+	
+	.galleryPics img{
+		width:100%;
+	}
+.social-link{
+	display:inline-block;
+	padding:6em;
+	width:100%;
+	text-align:center;
+	
+	}
+	.social-link img{max-width:600px;}
+	.facebook{
+		background:#4286f4;
+	}
+	.twitter{
+		background:#00aced;
+	}
+	
+	.parallax-window{
+		width:100%;
+		min-height:400px
+	}
+	
+.footer{
+	height:300px;
+	width:100%;
+	background-color:white;
+	background-position:top center;
+	background-size:cover;
+	overflow:auto;
+	background-image:url("Forest_Footer.png")
+}

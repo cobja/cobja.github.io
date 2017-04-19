@@ -1,0 +1,111 @@
+ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
+
+PUBLICATION NAME: Mahouts-ECP - v6.indd
+
+PACKAGE DATE: 26/09/2016 11:04
+Creation Date: 26/09/2016
+Modification Date: 26/09/2016
+
+CONTACT INFORMATION
+
+Company Name: 
+Contact: 
+Address: 
+
+
+
+
+
+Phone: 
+Fax: 
+Email: 
+
+SPECIAL INSTRUCTIONS AND OTHER NOTES
+
+
+
+
+
+
+External Plug-ins 1
+
+ExtensisFontManagementIDCS6.InDesignPlugin
+
+
+Non Opaque Objects :On Page1, 2, 3, 4
+
+FONTS
+11 Fonts Used; 0 Missing, 0 Embedded, 0 Incomplete, 0 Protected
+
+Fonts Packaged
+- Name: AmerTypewriterITCbyBT-Bold; Type: Type 1, Status: OK
+- Name: AmerTypewriterITCbyBT-Medium; Type: Type 1, Status: OK
+- Name: AmericanTypewriter; Type: TrueType, Status: OK
+- Name: AmericanTypewriter-Condensed; Type: TrueType, Status: OK
+- Name: AmericanTypewriter-CondensedBold; Type: TrueType, Status: OK
+- Name: MyriadPro-Bold; Type: OpenType Type 1, Status: OK
+- Name: MyriadPro-It; Type: OpenType Type 1, Status: OK
+- Name: MyriadPro-Light; Type: OpenType Type 1, Status: OK
+- Name: MyriadPro-Regular; Type: OpenType Type 1, Status: OK
+- Name: MyriadPro-Semibold; Type: OpenType Type 1, Status: OK
+- Name: Times-Roman; Type: TrueType, Status: OK
+
+
+COLOURS AND INKS
+4 Process Inks; 0 Spot Inks
+
+- Name and Type: Process Cyan; Angle: 27.000; Lines/Inch: 134.000
+- Name and Type: Process Magenta; Angle: 63.000; Lines/Inch: 134.000
+- Name and Type: Process Yellow; Angle: 0.000; Lines/Inch: 150.000
+- Name and Type: Process Black; Angle: 45.000; Lines/Inch: 141.000
+
+
+LINKS AND IMAGES
+(Missing & Embedded Links Only)
+Links and Images: 20 Links Found; 0 Modified, 0 Missing 0 Inaccessible
+Images: 0 Embedded, 17 use RGB colour space
+
+
+PRINT SETTINGS
+PPD: RICOH MP C3003, (192.168.254.203)
+Printing To: Printer
+Number of Copies: 1
+Reader Spreads: No
+Even/Odd Pages: Both
+Pages: All
+Proof: No
+Tiling: None
+Scale: 100%, 100%
+Page Position: Upper Left
+Print Layers: Visible & Printable Layers
+Printer's Marks: None
+Bleed: 0 mm, 0 mm, 0 mm, 0 mm
+Colour: Composite CMYK
+Trapping Mode: None
+Send Image Data: Optimised Subsampling
+OPI/DCS Image Replacement: No
+Page Size: A4
+Paper Dimensions: 209.903 mm x 297.039 mm
+Orientation: Portrait
+Negative: No
+Flip Mode: Off
+
+
+FILE PACKAGE LIST
+
+1. Mahouts-ECP - v6.indd; type: Adobe InDesign publication; size: 5788K
+2. Mahouts-ECP - v6.idml; type: InDesign Mark-up Document; size: 352K
+3. Mahouts-ECP - v6.pdf; type: Adobe Acrobat Document; size: 9459K
+4. AmerTypITCbyBTBol; type: Font file; size: 0K
+5. AmerTypewriterITCbyBT-Bold; type: Font file; size: 0K
+6. AmerTypITCbyBTMed; type: Font file; size: 0K
+7. AmerTypewriterITCbyBT-Medium; type: Font file; size: 0K
+8. AmericanTypewriter; type: Font file; size: 0K
+9. AmericanTypewriter-Condensed; type: Font file; size: 0K
+10. AmericanTypewriter-CondensedBold; type: Font file; size: 0K
+11. MyriadPro-Bold.otf; type: Font file; size: 95K
+12. MyriadPro-It.otf; type: Font file; size: 97K
+13. MyriadPro-Light.otf; type: Font file; size: 92K
+14. MyriadPro-Regular.otf; type: Font file; size: 93K
+15. MyriadPro-Semibold.otf; type: Font file; size: 95K
+16. Times.dfont; type: Font file; size: 1562K
